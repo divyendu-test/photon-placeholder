@@ -1,9 +1,9 @@
 {
   "name": "photon-placeholder",
-  "version": "1.0.1",
+  "version": "1.0.4",
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "postinstall": "prisma2 generate"
+    "postinstall": "node -e 'console.log(process.cwd())' && cd ../../ && prisma2 generate"
   }
 }
