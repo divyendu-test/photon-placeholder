@@ -2,3 +2,7 @@
 # yarn lockfile v1
 
 
+prisma2@^2.0.0-alpha.259:
+  version "2.0.0-alpha.259"
+  resolved "https://registry.yarnpkg.com/prisma2/-/prisma2-2.0.0-alpha.259.tgz#f5e06c9419869274ec890ef5066dbab75319ede4"
+  integrity sha512-e9YJhbFF8O0FKQpjEeYzkgtFcgI9LC2A01MKR9qHDDR3bbvirtZ1FkIphG9LqU0thW4BvxR4royJ9E37qB1ntg==
